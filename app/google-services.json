@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584712481185",
+    "firebase_url": "https://loginexample-c018f.firebaseio.com",
+    "project_id": "loginexample-c018f",
+    "storage_bucket": "loginexample-c018f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584712481185:android:e593a65f848932928e83e0",
+        "android_client_info": {
+          "package_name": "com.example.googleloginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584712481185-irme8om5bb4on02v3m5pbrr6m3u61s7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleloginexample",
+            "certificate_hash": "0a429ab30599c75be9ecc65b203cc043e618b031"
+          }
+        },
+        {
+          "client_id": "584712481185-dmq5rs5ptbgqs73iotl6c3f3ogl49omb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOGDJ4MlC-t7C-uewpBfExvyvXQ-zFA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584712481185-dmq5rs5ptbgqs73iotl6c3f3ogl49omb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
